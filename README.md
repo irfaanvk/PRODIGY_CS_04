@@ -17,7 +17,7 @@ Python 3.x
 pynput library (install via pip install pynput)
 
 Usage
-Clone the repository: git clone https://github.com/irfaanvk/PRODIGY_CS_04
+Clone the repository: git clone https://github.com/irfaanvk/PRODIGY_CS_04.git
 
 Navigate to the project directory: cd simple-keylogger
 
